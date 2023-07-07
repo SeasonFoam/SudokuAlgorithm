@@ -1,4 +1,4 @@
-﻿using Microsoft.Office.Interop.Excel;
+using Microsoft.Office.Interop.Excel;
 using SudokuAlgorithm;
 using System;
 using System.Linq;
@@ -16,6 +16,7 @@ namespace Sudoku
 
         private SudokuOrigin dataSource = new SudokuOrigin();
         private SudokuOrigin template = new SudokuOrigin();
+        bool status = false;
 
         #endregion
 
@@ -62,12 +63,17 @@ namespace Sudoku
             {
                 if (button1.Text.Equals("查看"))
                 {
-                    SudokuOrigin m = new SudokuOrigin();
-                    m.Convert(dataSource);
-                    dataSource.Convert(template);
-                    template.Convert(m);
+                    if(!status)
+                    {
+                        SudokuOrigin m = new SudokuOrigin();
+                        m.Convert(dataSource);
+                        dataSource.Convert(template);
+                        template.Convert(m);
 
-                    UpdateMap(dataSource);
+                        status = true;
+
+                        UpdateMap(dataSource);
+                    }
                 }
                 else if (button1.Text.Equals("开始计算"))
                 {
@@ -77,6 +83,7 @@ namespace Sudoku
                     {
                         button1.Enabled = false;
                         template.Convert(dataSource);
+                        status = true;
 
                         Thread td = new Thread(new ThreadStart(Deduction));
                         td.Start();
@@ -89,11 +96,17 @@ namespace Sudoku
             }
             else if (btn.Equals(button2))
             {
-                SudokuOrigin m = new SudokuOrigin();
-                m.Convert(dataSource);
-                dataSource.Convert(template);
-                template.Convert(m);
-                UpdateMap(dataSource);
+                if(status)
+                {
+                    SudokuOrigin m = new SudokuOrigin();
+                    m.Convert(dataSource);
+                    dataSource.Convert(template);
+                    template.Convert(m);
+
+                    UpdateMap(dataSource);
+
+                    status = false;
+                }
             }
             else if (btn.Equals(button3))
             {
