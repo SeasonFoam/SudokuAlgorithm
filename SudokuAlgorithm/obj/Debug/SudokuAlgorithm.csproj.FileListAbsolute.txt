@@ -1,0 +1,8 @@
+G:\SynologyDrive\个人资料\个人软件测试\SudokuMapAlgorithm\SudokuAlgorithm\bin\Debug\SudokuAlgorithm.dll
+G:\SynologyDrive\个人资料\个人软件测试\SudokuMapAlgorithm\SudokuAlgorithm\bin\Debug\SudokuAlgorithm.pdb
+G:\SynologyDrive\个人资料\个人软件测试\SudokuMapAlgorithm\SudokuAlgorithm\bin\Debug\System.Core.dll
+G:\SynologyDrive\个人资料\个人软件测试\SudokuMapAlgorithm\SudokuAlgorithm\obj\Debug\SudokuAlgorithm.csprojAssemblyReference.cache
+G:\SynologyDrive\个人资料\个人软件测试\SudokuMapAlgorithm\SudokuAlgorithm\obj\Debug\SudokuAlgorithm.csproj.CoreCompileInputs.cache
+G:\SynologyDrive\个人资料\个人软件测试\SudokuMapAlgorithm\SudokuAlgorithm\obj\Debug\SudokuAlgorithm.csproj.CopyComplete
+G:\SynologyDrive\个人资料\个人软件测试\SudokuMapAlgorithm\SudokuAlgorithm\obj\Debug\SudokuAlgorithm.dll
+G:\SynologyDrive\个人资料\个人软件测试\SudokuMapAlgorithm\SudokuAlgorithm\obj\Debug\SudokuAlgorithm.pdb

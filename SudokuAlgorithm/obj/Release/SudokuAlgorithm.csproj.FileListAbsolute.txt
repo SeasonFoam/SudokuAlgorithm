@@ -1,0 +1,14 @@
+G:\SynologyDrive\个人资料\个人软件测试\SudokuMapAlgorithm\SudokuAlgorithm\bin\Release\SudokuAlgorithm.dll
+G:\SynologyDrive\个人资料\个人软件测试\SudokuMapAlgorithm\SudokuAlgorithm\bin\Release\SudokuAlgorithm.pdb
+G:\SynologyDrive\个人资料\个人软件测试\SudokuMapAlgorithm\SudokuAlgorithm\bin\Release\System.Core.dll
+G:\SynologyDrive\个人资料\个人软件测试\SudokuMapAlgorithm\SudokuAlgorithm\obj\Release\SudokuAlgorithm.csproj.CoreCompileInputs.cache
+G:\SynologyDrive\个人资料\个人软件测试\SudokuMapAlgorithm\SudokuAlgorithm\obj\Release\SudokuAlgorithm.csproj.CopyComplete
+G:\SynologyDrive\个人资料\个人软件测试\SudokuMapAlgorithm\SudokuAlgorithm\obj\Release\SudokuAlgorithm.dll
+G:\SynologyDrive\个人资料\个人软件测试\SudokuMapAlgorithm\SudokuAlgorithm\obj\Release\SudokuAlgorithm.pdb
+D:\Seafile\SynologyDrive\个人资料\个人软件测试\SudokuMapAlgorithm\SudokuAlgorithm\bin\Release\SudokuAlgorithm.dll
+D:\Seafile\SynologyDrive\个人资料\个人软件测试\SudokuMapAlgorithm\SudokuAlgorithm\bin\Release\SudokuAlgorithm.pdb
+D:\Seafile\SynologyDrive\个人资料\个人软件测试\SudokuMapAlgorithm\SudokuAlgorithm\bin\Release\System.Core.dll
+D:\Seafile\SynologyDrive\个人资料\个人软件测试\SudokuMapAlgorithm\SudokuAlgorithm\obj\Release\SudokuAlgorithm.csproj.CoreCompileInputs.cache
+D:\Seafile\SynologyDrive\个人资料\个人软件测试\SudokuMapAlgorithm\SudokuAlgorithm\obj\Release\SudokuAlgorithm.csproj.CopyComplete
+D:\Seafile\SynologyDrive\个人资料\个人软件测试\SudokuMapAlgorithm\SudokuAlgorithm\obj\Release\SudokuAlgorithm.dll
+D:\Seafile\SynologyDrive\个人资料\个人软件测试\SudokuMapAlgorithm\SudokuAlgorithm\obj\Release\SudokuAlgorithm.pdb

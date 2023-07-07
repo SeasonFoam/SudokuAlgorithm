@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1972
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuMapAlgorithm", "SudokuMapAlgorithm\SudokuMapAlgorithm.csproj", "{D08C4B3E-76B2-4451-A3E3-2477C49085E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuAlgorithm", "SudokuAlgorithm\SudokuAlgorithm.csproj", "{9B3BA2A7-94EA-455E-BF51-02574ACEF159}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku", "Sudoku\Sudoku.csproj", "{433C33D7-131C-4853-9D57-268ADF36484A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D08C4B3E-76B2-4451-A3E3-2477C49085E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08C4B3E-76B2-4451-A3E3-2477C49085E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08C4B3E-76B2-4451-A3E3-2477C49085E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08C4B3E-76B2-4451-A3E3-2477C49085E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B3BA2A7-94EA-455E-BF51-02574ACEF159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3BA2A7-94EA-455E-BF51-02574ACEF159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3BA2A7-94EA-455E-BF51-02574ACEF159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3BA2A7-94EA-455E-BF51-02574ACEF159}.Release|Any CPU.Build.0 = Release|Any CPU
+		{433C33D7-131C-4853-9D57-268ADF36484A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433C33D7-131C-4853-9D57-268ADF36484A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433C33D7-131C-4853-9D57-268ADF36484A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433C33D7-131C-4853-9D57-268ADF36484A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF9FABA2-73DC-432E-B71B-D91BC90B3A75}
+	EndGlobalSection
+EndGlobal
