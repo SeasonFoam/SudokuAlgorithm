@@ -65,7 +65,7 @@ namespace Sudoku
                     SudokuOrigin m = new SudokuOrigin();
                     m.Convert(dataSource);
                     dataSource.Convert(template);
-                    template.Convert(dataSource);
+                    template.Convert(m);
 
                     UpdateMap(dataSource);
                 }
@@ -92,7 +92,7 @@ namespace Sudoku
                 SudokuOrigin m = new SudokuOrigin();
                 m.Convert(dataSource);
                 dataSource.Convert(template);
-                template.Convert(dataSource);
+                template.Convert(m);
                 UpdateMap(dataSource);
             }
             else if (btn.Equals(button3))
